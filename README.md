@@ -1,16 +1,28 @@
-### Hi there 👋
+# Roger Vieira
 
-<!--
-**rogerfvieira/rogerfvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Data Engineer with a passion for adding genuine value to peoples lives with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on: 
+
+* Google Cloud Data Engineer certification  
+
+* Algorithmic problem solving in HackerRank!
+
+* SQL
+
+## Skills 
+
+* Algorithms
+* OOP
+* Python
+* MongoDB
+* FastAPI
+* Pandas
+* Numpy
+
+## Development Tools  
+
+* Git
+* Heroku 
+* Docker
