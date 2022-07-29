@@ -11,6 +11,8 @@ I'm currently working on:
 
 * SQL
 
+* Docker 
+
 ## Skills 
 
 * Algorithms
@@ -25,4 +27,3 @@ I'm currently working on:
 
 * Git
 * Heroku 
-* Docker
