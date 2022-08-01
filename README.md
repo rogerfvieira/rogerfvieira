@@ -1,7 +1,7 @@
 # Roger Vieira
 
 
-Data Engineer with a passion for adding genuine value to peoples lives with code.
+Data Engineer with a passion for problem solving and adding genuine value to peoples lives with code.
 
 I'm currently working on: 
 
