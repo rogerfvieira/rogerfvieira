@@ -22,6 +22,7 @@ I'm currently working on:
 * FastAPI
 * Pandas
 * Numpy
+* TensorFlow
 
 ## Development Tools  
 
