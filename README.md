@@ -11,7 +11,7 @@ I'm currently working on:
 
 * SQL
 
-* Docker 
+* Kubernetes
 
 ## Skills 
 
